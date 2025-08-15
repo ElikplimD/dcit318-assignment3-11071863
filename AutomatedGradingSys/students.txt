@@ -1,0 +1,6 @@
+101,Alice Smith,84
+102,Bob Johnson,72
+103,Clara Doe,65
+104,David Lee,49
+105,Eva King,67
+106,Frank,88
